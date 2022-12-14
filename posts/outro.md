@@ -15,7 +15,7 @@ layout: layouts/post.njk
 
 We're a pysch-pop, post-rock, post-punk band of indie rock veterans out of western MA who have been playing loud music in front of people for a collective total of 92 years. Our DNA is spliced out of local bands including Psychic Energy, the Capitulators, Mobius Band, the Lucky Shots, and Bring it to Bear. We mix elements of the melodic psych-rock and off-kilter punk of bands like Deerhunter, Bedhead, Built to Spill, and the Feelies.
 
-We recently <a href="https://outro-band.bandcamp.com">released and EP</a> and we're busy recording our first full-length.
+We recently <a href="https://outro-band.bandcamp.com">released an EP</a> and we're busy recording our first full-length.
 
 Check us out on Bandcamp: https://outro-band.bandcamp.com
 
