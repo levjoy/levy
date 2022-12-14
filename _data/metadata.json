@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Josh Levy",
+  "url": "https://levjoy.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Josh Levy, website",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -15,7 +15,7 @@
   },
   "author": {
     "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "email": "josh@levjoy.com",
+    "url": "https://levjoy.com/about/"
   }
 }
