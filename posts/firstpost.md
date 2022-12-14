@@ -1,26 +1,16 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Outro
+description: Outro is Josh's band
+date: 2022-12-14
 tags:
-  - another tag
+  - music
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbpyHGhsx5lG0akdU91sEk_Jd_O47gDUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<strong>Outro</strong> is my maian band. We're a pysch-pop, post-rock, post-punk band of indie rock veterans out of western MA who have been playing loud music in front of people for a collective total of 92 years. Our DNA is spliced out of local bands including Psychic Energy, the Capitulators, Mobius Band, the Lucky Shots, and Bring it to Bear. Mixing elements of the melodic psych-rock and off-kilter punk of bands like Deerhunter, Bedhead, Built to Spill, and the Feelies, the band has released an EP and will record our first full-length the fall of 2022.
 
-## Section Header
+Check out "Live at Le Curieux Cirque" on Bandcamp: <a href="https://outro-band.bandcamp.com">https://outro-band.bandcamp.com</a>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```diff-js
-// this is a command
-function myCommand() {
-+	let counter = 0;
-+	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+Contact: info [at] outroband.com
